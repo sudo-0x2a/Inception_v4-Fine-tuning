@@ -1,6 +1,6 @@
 ---
 author: Ori.Terran
-completion data: 04/28/2025
+completion date: 04/28/2025
 ---
 
 # Fine-tuning Inception-v4 with CIFAR-10 Dataset
